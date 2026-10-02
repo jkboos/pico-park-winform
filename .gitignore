@@ -1,0 +1,39 @@
+# Visual Studio and build output
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Original-game assets and local replacements: never commit these accidentally
+image/
+**/Resources/
+sound/
+**/sound/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.dll
+*.exe
+*.pdb
+*.resources
+*.zip
+*.7z
+
+# Reports, screenshots, and local tooling
+report_assets/
+*.docx
+*.pptx
+*.pdf
+~$*
+.env
+.env.*
