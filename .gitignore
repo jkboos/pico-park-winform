@@ -37,3 +37,9 @@ report_assets/
 ~$*
 .env
 .env.*
+
+# Documentation screenshots explicitly included for the README
+!/docs/images/review.png
+!/docs/images/level-select.png
+!/docs/images/gameplay.png
+!/docs/images/level-clear.png
